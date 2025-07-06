@@ -44,7 +44,3 @@ Landing page profesional desarrollada en React para el Hotel Los Andes, ubicado 
 - Cambia las imágenes en `/src/assets` para personalizar habitaciones y fondo.
 - Modifica los textos y servicios en los componentes según las necesidades del hotel.
 
-## Créditos
-
-Desarrollado por [Tu Nombre o Equipo] para Hotel Los Andes, Trujillo, Venezuela.
-
